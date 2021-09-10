@@ -1,6 +1,4 @@
 # hoi4-motorized-icons-variations
-literally this
-
 Basically this is a picture library of hoi4 motorized units' icons.
 
 It's organized by the filter putted in the icons, like red icons are the default icons with a red color.
